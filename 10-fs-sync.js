@@ -18,3 +18,5 @@ writeFileSync("./content/result-sync.txt", `${first},${second}`, {
 });
 console.log("done with this task")
 console.log("starting the next one")
+
+//step by step
